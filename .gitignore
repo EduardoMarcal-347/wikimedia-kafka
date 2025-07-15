@@ -1,0 +1,30 @@
+# Ignore Gradle files
+.gradle/
+build/
+
+# Ignore Gradle wrapper jar files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Ignore IDE files
+.idea/
+*.iml
+*.iws
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore class files
+*.class
+
+# Ignore jar files
+*.jar
+
+# Ignore distribution files
+*.tar
+*.zip
